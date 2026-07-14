@@ -1,0 +1,6 @@
+{
+  "name": "กิจกรรมหุ่นยนต์เก็บขยะ",
+  "description": "บทเรียนออนไลน์สำหรับนักเรียนมัธยมศึกษาปีที่ 5 วิชา Basic Programming เรื่องการวางแผนลำดับคำสั่งและการแก้ปัญหาอย่างเป็นขั้นตอน",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

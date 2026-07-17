@@ -9,11 +9,11 @@ export const BASE_POS = { r: 7, c: 0 };  // H1
 export const OBSTACLES: Obstacle[] = [
   { r: 1, c: 2, type: 'pond', emoji: '💧', name: 'บ่อน้ำ (B3)' },
   { r: 1, c: 5, type: 'tree', emoji: '🌳', name: 'ต้นไม้ (B6)' },
-  { r: 2, c: 1, type: 'rock', emoji: '🪨', name: 'ก้อนหิน (C2)' },
+  { r: 2, c: 1, type: 'rock', emoji: '⛰️', name: 'ก้อนหิน (C2)' },
   { r: 3, c: 3, type: 'tree', emoji: '🌳', name: 'ต้นไม้ (D4)' },
-  { r: 3, c: 6, type: 'rock', emoji: '🪨', name: 'ก้อนหิน (D7)' },
+  { r: 3, c: 6, type: 'rock', emoji: '⛰️', name: 'ก้อนหิน (D7)' },
   { r: 4, c: 5, type: 'pond', emoji: '💧', name: 'บ่อน้ำ (E6)' },
-  { r: 5, c: 2, type: 'rock', emoji: '🪨', name: 'ก้อนหิน (F3)' },
+  { r: 5, c: 2, type: 'rock', emoji: '⛰️', name: 'ก้อนหิน (F3)' },
   { r: 5, c: 6, type: 'tree', emoji: '🌳', name: 'ต้นไม้ (F7)' }
 ];
 

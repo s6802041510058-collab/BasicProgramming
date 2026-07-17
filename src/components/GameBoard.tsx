@@ -158,7 +158,7 @@ export default function GameBoard({ robotPos, remainingTrash, allTrash, basePos 
         </div>
         <div className="flex items-center gap-1.5">
           <span className="inline-block w-4 h-4 bg-stone-50 border border-gray-200 rounded" />
-          <span>ก้อนหิน (🪨)</span>
+          <span>ก้อนหิน (⛰️)</span>
         </div>
       </div>
     </div>

@@ -20,7 +20,7 @@ export default function RulesPanel() {
     { char: '🏠', name: 'ฐานปลายทาง (Base)', desc: 'จุดหมายปลายทางพิกัด H1 ต้องกลับมาที่นี่เมื่อภารกิจสำเร็จ' },
     { char: '🗑️', name: 'จุดเก็บขยะ (Trash Point)', desc: 'ขยะเป้าหมายจำนวน 4 จุด อยู่ที่พิกัด A7, C5, E2, G5' },
     { char: '🌳', name: 'ต้นไม้ (Tree Obstacle)', desc: 'สิ่งกีดขวางธรรมชาติ อยู่ที่พิกัด B6, D4, F7' },
-    { char: '🪨', name: 'ก้อนหิน (Rock Obstacle)', desc: 'สิ่งกีดขวางธรรมชาติ อยู่ที่พิกัด C2, D7, F3' },
+    { char: '⛰️', name: 'ก้อนหิน (Rock Obstacle)', desc: 'สิ่งกีดขวางธรรมชาติ อยู่ที่พิกัด C2, D7, F3' },
     { char: '💧', name: 'บ่อน้ำ (Pond Obstacle)', desc: 'แหล่งน้ำห้ามผ่าน อยู่ที่พิกัด B3, E6' },
   ];
 
